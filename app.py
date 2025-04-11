@@ -11,7 +11,7 @@ with open('label_encoders.pkl', 'rb') as f:
     label_encoders = pickle.load(f)
 
 # App title
-st.title("🏠 House Price Prediction App (Bengaluru)")
+st.title("🏠 House Price Prediction App (Benglore)")
 
 # Input form
 with st.form("input_form"):
