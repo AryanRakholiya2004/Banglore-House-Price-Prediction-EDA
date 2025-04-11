@@ -8,6 +8,16 @@ This is an end-to-end **Machine Learning project** built by a **Data Science stu
 
 ---
 
+## Previews
+
+#### Streamlit App Preview
+![image](https://github.com/user-attachments/assets/00a95990-8403-4bf4-a114-db7d0e9cac7b)
+
+- You can try this with below link
+🔗 <a href="">Banglore House Price Prediction</a>
+
+---
+
 ## 📌 Project Objective
 
 The objective of this project is to:
@@ -94,3 +104,4 @@ git clone https://github.com/yourusername/bangalore-house-price-predictor.git
 cd bangalore-house-price-predictor
 pip install -r requirements.txt
 streamlit run app.py
+```
