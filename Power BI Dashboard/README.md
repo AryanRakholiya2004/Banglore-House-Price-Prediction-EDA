@@ -78,7 +78,8 @@ The dataset captures various attributes of house listings from different localit
 
 Below is a screenshot of the main page of the dashboard:
 
-![Bangalore House Prices Dashboard](./screenshots/Bangalore_House_Prices_Dashboard.png)
+![image](https://github.com/user-attachments/assets/c5fa7b32-1e0a-4546-b58e-708f042258ed)
+
 
 > **Note**: If the image doesn’t appear, please check the `screenshot` folder in this repository or refer to the file named similarly to `Bangalore_House_Prices_Dashboard.png`.
 
