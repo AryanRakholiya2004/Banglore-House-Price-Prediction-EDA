@@ -101,10 +101,10 @@ From the visualizations, we can observe:
 
 ## Contact
 
-- **Author/Developer**: Aryan Rakholiya
+- **Author/Developer**: <a href="https://github.com/AryanRakholiya2004">Aryan Rakholiya</a>
 - **Email**: aryanrakholiya@proton.me
-- **LinkedIn**: <a href="www.linkedin.com/in/aryanrakholiya">Aryan Rakholiya</a>
-- **Portfolio**: <a href="www.datascienceportfol.io/AryanRakholiya">datascienceportfol.io/AryanRakholiya</a>
+- **LinkedIn**: <a href="https://www.linkedin.com/in/aryanrakholiya/">Aryan Rakholiya</a>
+- **Portfolio**: <a href="https://www.datascienceportfol.io/AryanRakholiya">datascienceportfol.io/AryanRakholiya</a>
 
 
 *If you have any questions or suggestions about the dashboard, feel free to reach out.*
